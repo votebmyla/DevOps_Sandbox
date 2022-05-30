@@ -1,0 +1,3 @@
+1. Check if server IP address is reachable. Ping to server IP address.
+2. Check if SSH connections are allowed on router firewall.
+3. Check if SSH service is active on server. Check firewall settings if SSH connections are allowed on server.
